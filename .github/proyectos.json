@@ -1,0 +1,26 @@
+{
+  "max": 4,
+  "excluir": ["madebydani", "portafolio"],
+  "personalizados": {
+    "my-games-backlog": {
+      "emoji": "🎮",
+      "descripcion": "App de escritorio para organizar tu lista de juegos pendientes, con puntuaciones y duración obtenidas de Steam, HowLongToBeat y Metacritic.",
+      "tecnologias": ["Python", "PyQt6"]
+    },
+    "FitnessApp": {
+      "emoji": "💪",
+      "descripcion": "App Android de fitness con perfil de usuario, entrenamientos, seguimiento del peso y cálculo del IMC, con datos guardados en el dispositivo.",
+      "tecnologias": ["Kotlin", "Jetpack Compose"]
+    },
+    "CalculadoraIMC": {
+      "emoji": "⚖️",
+      "descripcion": "Calculadora del Índice de Masa Corporal para Android con una interfaz sencilla y moderna.",
+      "tecnologias": ["Kotlin", "Jetpack Compose"]
+    },
+    "Dado": {
+      "emoji": "🎲",
+      "descripcion": "Simulador de un dado de seis caras para Android, con gráficos propios para cada cara y diseño adaptable.",
+      "tecnologias": ["Kotlin", "XML"]
+    }
+  }
+}
